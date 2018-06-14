@@ -9,14 +9,14 @@ This is my Emacs configuration. I've only just begun to use Emacs so it's still 
 [[./screenshot.png]]
 
 * Some goals/features
-- Familiarity :: Enabled modern GUI keybinding (C-x, C-c, C-v, shift select etc), Familiar mouse interface (as much as possible), not too far from vanilla Emacs.
-- Mouse and trackpad support :: Mouse menus, smooth scrolling, avoid middle mouse button dependence.
-- Discoverability, help and hints :: Auto-completion, spell check, always highlight current line, parenthesis highlighting.
-- Beauty :: Vibrant yet conservative colour theme, Beautiful fonts, Proportional fonts and varying text size where appropriate, modern cursor appearance.
-- Nice writing environment :: Olivetti mode and visual line mode for sane and aesthetically pleasing text wrapping (TODO). Don't use auto-fill if possible. Text mode themes inspired by Tex, Tufte CSS and MS Word.
-- Speed :: Try to keep the refreshingly fast nature of vanilla Emacs.
-- Good Defaults :: UTF-8 by default (Windows problem), maximised on startup, time and battery in mode-line for fullscreen, trash/recycling bin support, bell disabled for sanity, disable configure GUI effects (too volatile for me).
-- No setup required :: Auto download necessary packages.
++ Familiarity :: Enabled modern GUI keybinding (C-x, C-c, C-v, shift select etc), Familiar mouse interface (as much as possible), not too far from vanilla Emacs.
++ Mouse and trackpad support :: Mouse menus, enable mouse interactivity (e.g. org-mouse), smooth scrolling, avoid middle mouse button dependence.
++ Discoverability, help and hints :: Auto-completion, spell check, always highlight current line, parenthesis highlighting.
++ Beauty :: Vibrant yet conservative colour theme, Beautiful fonts, Proportional fonts and varying text size where appropriate, modern cursor appearance.
++ Nice writing environment :: Olivetti mode and visual line mode for sane and aesthetically pleasing text wrapping (TODO). Don't use auto-fill if possible. Text mode themes inspired by Tex, Tufte CSS and MS Word.
++ Speed :: Try to keep the refreshingly fast nature of vanilla Emacs.
++ Good Defaults :: UTF-8 by default (Windows problem), maximised on startup, time and battery in mode-line for fullscreen, trash/recycling bin support, bell disabled for sanity, disable configure GUI effects (too volatile for me).
++ No setup required :: Auto download necessary packages.
 
 * Usage Notes
 - Just copy (or ~git clone~) this ~.emacs.d~ directory/folder into either ~~~ for Mac and Linux or ~C:/Users/Your Name/AppData/Roaming~ for Windows to get started. Of course you'll need Emacs installed.
