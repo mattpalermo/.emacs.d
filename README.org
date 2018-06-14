@@ -9,7 +9,7 @@ This is my Emacs configuration. I've only just begun to use Emacs so it's still 
 [[./screenshot.png]]
 
 * Some goals/features
-- Familiarity :: Enabled modern GUI keybinding (C-x, C-c, C-v, shift select etc), Familiar mouse interface (as much as possible). 
+- Familiarity :: Enabled modern GUI keybinding (C-x, C-c, C-v, shift select etc), Familiar mouse interface (as much as possible), not too far from vanilla Emacs.
 - Mouse and trackpad support :: Mouse menus, smooth scrolling, avoid middle mouse button dependence.
 - Discoverability, help and hints :: Auto-completion, spell check, always highlight current line, parenthesis highlighting.
 - Beauty :: Vibrant yet conservative colour theme, Beautiful fonts, Proportional fonts and varying text size where appropriate, modern cursor appearance.
